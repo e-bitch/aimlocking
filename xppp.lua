@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/flxyomg/dahood-aimlock/main/aimlock.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/e-bitch/aimlocking/main/aimlock.lua"))()
 Aiming.TeamCheck(false)
 
 -- // Services
